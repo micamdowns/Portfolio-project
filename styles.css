@@ -84,10 +84,7 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
-.location {
-  background-color: #8c8c8c;
-  color: yellow;
-}
+
 .card {
   font-family: 'Raleway', sans-serif;
   margin: 30px;
@@ -119,8 +116,9 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: gray;
-}
 
+
+}
 footer {
   width: 100%;
   min-height: 30px;
@@ -205,3 +203,13 @@ a.social:hover {
   }
 
 }
+
+.centered {
+      position:absolute;
+      width:100px;
+      height:100px;
+      left:50%;
+      top:50%;
+      margin-left:-50px;
+      margin-top:-50px;
+  }
