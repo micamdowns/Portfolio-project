@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('/Users/micaetheridge/Documents/Personal Design Work/Profile Page Banner.png') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -66,11 +66,11 @@ header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
-  width: 200px;
-  height: 200px;
+  margin-top: 150px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid gray;
   transition: all .5s;
 }
 header .profile-image:hover {
