@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('/Users/micaetheridge/Documents/Personal Design Work/Profile Page Banner.png') no-repeat top center ;
+  background: url('images/Profile Page Banner.png') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid gray;
+  border: 2px solid black;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -150,9 +150,7 @@ a.social {
   opacity: 1;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
+
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
