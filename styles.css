@@ -4,9 +4,9 @@
 }
 
 body {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
-  padding: 5;
+  padding: 5px;
   text-align: center;
   color: #222;
   background: #8c8c8c;
@@ -202,4 +202,6 @@ a.social:hover {
 
 .about{
   text-align: center;
+}
+
 }
