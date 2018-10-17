@@ -202,7 +202,6 @@ a.social:hover {
     margin: 40px auto;
   }
 
-.about {
-  align-content: center;
-  
+.about{
+  text-align: center;
 }
